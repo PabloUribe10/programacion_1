@@ -1,0 +1,4 @@
+REPORTE FINAL DE PRODUCTOS Y VENTAS
+====================================================================
+CODIGO   NOMBRE            CANT.INI   PRECIO   VENDIDO   TOTAL
+--------------------------------------------------------------------
